@@ -7,5 +7,5 @@ A User management app created using ReactJS and Tailwind CSS. This app features 
 
 ## Demo
 
-https://github.com/user-attachments/assets/84534103-0370-4d2a-9924-dd82b54c93be
+
 
